@@ -14,6 +14,12 @@ To use this project template, you will need:
     A C++ compiler (such as GCC or Clang)
     CMake 3.0 or later
     GTest (installed or downloaded as part of the project)
+## How to use this?
+To use your code you need to write few commands in terminal (open terminal in same folder as CMakeLists.txt)
+
+	cd build/ ; cmake .. ; make ; ./MyProject
+
+	
 
 ## Contributions
 
