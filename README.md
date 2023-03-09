@@ -1,3 +1,4 @@
+
 # Simple C++ Project Template with Pre-Configured CMake and GTest
 
 This project template provides a simple starting point for C++ projects, with pre-configured CMake and GTest. This will save you a lot of time that you would otherwise spend setting up the build and testing environment.
@@ -20,11 +21,13 @@ To use the project, follow these steps:
 
 1. Open the terminal in the same folder as `CMakeLists.txt`.
 2. Enter the following commands:
-	cd build/
-	cmake ..
-	make
-	./MyProject
-3. This will compile and run the project, outputting any results or errors to the terminal.
+
+		cd build/
+		cmake ..
+		make
+		./MyProject
+	
+4. This will compile and run the project, outputting any results or errors to the terminal.
 
 ## Contributions
 
