@@ -22,6 +22,7 @@ To use the project, follow these steps:
 1. Open the terminal in the same folder as `CMakeLists.txt`.
 2. Enter the following commands:
 
+		touch build
 		cd build/
 		cmake ..
 		make
