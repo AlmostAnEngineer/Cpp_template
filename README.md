@@ -1,29 +1,34 @@
-# AlmostAnEngineer
-## Simple template for C++ projects with pre-configured CMake and GTest
+# Simple C++ Project Template with Pre-Configured CMake and GTest
 
-This C++ project template is perfect for those starting a new C++ project. With pre-configured CMake and GTest, you'll save a lot of time that you would otherwise spend configuring the project and setting up the testing environment.
+This project template provides a simple starting point for C++ projects, with pre-configured CMake and GTest. This will save you a lot of time that you would otherwise spend setting up the build and testing environment.
 
 ## Getting Started
 
-To get started, simply clone the repository and make your changes to the code. Then, use CMake to compile and build the project. The prepared unit tests will allow you to quickly and easily test your code.
+To get started, clone the repository and make changes to the code to suit your needs. Then, use CMake to build and compile the project. The pre-prepared unit tests allow you to easily test your code.
 
 ## Requirements
 
 To use this project template, you will need:
 
-    A C++ compiler (such as GCC or Clang)
-    CMake 3.0 or later
-    GTest (installed or downloaded as part of the project)
-## How to use this?
-To use your code you need to write few commands in terminal (open terminal in same folder as CMakeLists.txt)
+- A C++ compiler (e.g. GCC or Clang)
+- CMake 3.0 or later
+- GTest (installed or downloaded as part of the project)
 
-	cd build/ ; cmake .. ; make ; ./MyProject
+## How to Use
 
-	
+To use the project, follow these steps:
+
+1. Open the terminal in the same folder as `CMakeLists.txt`.
+2. Enter the following commands:
+	cd build/
+	cmake ..
+	make
+	./MyProject
+3. This will compile and run the project, outputting any results or errors to the terminal.
 
 ## Contributions
 
-If you'd like to contribute to this project or report a bug, please use the "Issues" system in this repository.
+If you would like to contribute to this project or report a bug, please use the "Issues" system in this repository.
 
 ## License
 
