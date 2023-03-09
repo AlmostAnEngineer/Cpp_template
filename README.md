@@ -16,8 +16,8 @@ To use this project template, you will need:
 - GTest (installed or downloaded as part of the project)
 
 ## How to Use
-
-To use the project, follow these steps:
+### Building the Project
+To build the project, follow these steps:
 
 1. Open the terminal in the same folder as `CMakeLists.txt`.
 2. Enter the following commands:
@@ -29,6 +29,17 @@ To use the project, follow these steps:
 		./MyProject
 	
 4. This will compile and run the project, outputting any results or errors to the terminal.
+
+### Recompiling
+If you need to recompile the project after making changes, follow these steps:
+
+1. Open the terminal in the same folder as `CMakeLists.txt`.
+2.  Enter the following commands:
+
+		cd build/
+		make
+		./MyProject
+4. This will compile and run the updated project, outputting any results or errors to the terminal.
 
 ## Contributions
 
