@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/almostanengineer/Pulpit/C++ template/Executable template/build",
+  "command": "/usr/bin/clang++ -DGTEST_LINKED_AS_SHARED_LIBRARY=1  -g -O3 -o CMakeFiles/MyProject.dir/src/main.cpp.o -c \"/home/almostanengineer/Pulpit/C++ template/Executable template/src/main.cpp\"",
+  "file": "/home/almostanengineer/Pulpit/C++ template/Executable template/src/main.cpp"
+},
+{
+  "directory": "/home/almostanengineer/Pulpit/C++ template/Executable template/build",
+  "command": "/usr/bin/clang++ -DGTEST_LINKED_AS_SHARED_LIBRARY=1  -g -O3 -o CMakeFiles/MyProject.dir/src/module1.cpp.o -c \"/home/almostanengineer/Pulpit/C++ template/Executable template/src/module1.cpp\"",
+  "file": "/home/almostanengineer/Pulpit/C++ template/Executable template/src/module1.cpp"
+},
+{
+  "directory": "/home/almostanengineer/Pulpit/C++ template/Executable template/build",
+  "command": "/usr/bin/clang++ -DGTEST_LINKED_AS_SHARED_LIBRARY=1  -g -O3 -o CMakeFiles/MyProject.dir/GTest/test.cpp.o -c \"/home/almostanengineer/Pulpit/C++ template/Executable template/GTest/test.cpp\"",
+  "file": "/home/almostanengineer/Pulpit/C++ template/Executable template/GTest/test.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -rdynamic CMakeFiles/MyProject.dir/src/main.cpp.o CMakeFiles/MyProject.dir/src/module1.cpp.o CMakeFiles/MyProject.dir/GTest/test.cpp.o -o MyProject  /usr/lib/libgtest_main.so.1.13.0 /usr/lib/libgtest.so.1.13.0 

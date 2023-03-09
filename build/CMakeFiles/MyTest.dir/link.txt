@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -rdynamic CMakeFiles/MyTest.dir/GTest/test.cpp.o -o MyTest  -lgtest -lgtest_main 
